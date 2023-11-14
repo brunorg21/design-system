@@ -2,7 +2,7 @@
   "compilerOptions": {
     "jsx": "react"
   },
-  "extends": "@ignite-ui/ts-config/base.json",
+  "extends": "@brgsg-ignite-ui/ts-config/base.json",
   "include": ["src"],
   
 }
