@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/react",
+  "name": "@brgsg-ignite-ui/react",
   "version": "1.0.0",
   "description": "",
   "private": true,
@@ -15,9 +15,9 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@brgsg-ignite-ui/eslint-config": "*",
+    "@brgsg-ignite-ui/tokens": "*",
+    "@brgsg-ignite-ui/ts-config": "*",
     "@radix-ui/react-avatar": "^1.0.4",
     "@radix-ui/react-checkbox": "^1.0.4",
     "@stitches/react": "^1.2.8",

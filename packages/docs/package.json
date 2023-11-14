@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/docs",
+  "name": "@brgsg-ignite-ui/docs",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -20,9 +20,9 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
+    "@brgsg-ignite-ui/eslint-config": "*",
+    "@brsg-ignite-ui/react": "*",
+    "@brgsg-ignite-ui/tokens": "*",
     "@storybook/addon-essentials": "^7.5.2",
     "@storybook/addon-interactions": "^7.5.2",
     "@storybook/addon-links": "^7.5.2",
