@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from "@storybook/react";
-import { Box, MultiStep, MultiStepProps } from "@ignite-ui/react";
+import { Box, MultiStep, MultiStepProps } from "@brgsg-ignite-ui/react";
 
 // More on how to set up stories at: https://storybook.js.org/docs/react/writing-stories/introduction#default-export
 export default {

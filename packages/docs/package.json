@@ -21,7 +21,7 @@
   },
   "devDependencies": {
     "@brgsg-ignite-ui/eslint-config": "*",
-    "@brsg-ignite-ui/react": "*",
+    "@brgsg-ignite-ui/react": "*",
     "@brgsg-ignite-ui/tokens": "*",
     "@storybook/addon-essentials": "^7.5.2",
     "@storybook/addon-interactions": "^7.5.2",
